@@ -2,7 +2,7 @@
   "name": "fetch-and-render-data",
   "version": "0.1.0",
   "private": true,
-  "homepage":" https://eduardo-ortiz09.github.io/fetch-and-render-data",
+  "homepage": " https://eduardo-ortiz09.github.io/fetch-and-render-data",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -40,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
